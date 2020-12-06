@@ -14,8 +14,8 @@
 - **BiMap:**<br>
   key不重复 value也不重复
 - **MapMaker：**<br>
-	map的构造工厂
--** Ordering :**<br>
+map的构造工厂
+- **Ordering :**<br>
 	大家知道用 Comparator 作为比较器来对集合排序，但是对于多关键字排序 Ordering class 可以简化很多的代码 
 - **filter ：**<br>
 	集合过滤，并且保证过滤后的几个不能有不符合过滤值得值被添加到集合中。
